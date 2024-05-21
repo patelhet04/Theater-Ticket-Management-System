@@ -9,7 +9,7 @@ The documents in this repository are publicly accessible and can be viewed direc
 ### Project Documents
 
 - **Github Repository**
-  https://github.com/patel-hetas/DMDD-Group13
+https://github.com/patelhet04/Theater-Ticket-Management-System
 
 - **Project Proposal**
   https://docs.google.com/document/d/1nAMFkUkyCFntV_1V2W_a5mIiEVqPKtW7Kokw2cFmNk8/edit?usp=sharing
